@@ -21,7 +21,7 @@ host1plus (https://www.host1plus.com) 本人在用，效果凑合，没对比过
 在启动了vpn的前提下
 #### 3.1下载tor
 >tor文件链接：https://pan.baidu.com/s/1efPw7c 密码：q75z   
->tor和其浏览器下载：https://www.torproject.org/download/download.html.en
+>tor浏览器链接：https://pan.baidu.com/s/1pMrZSqJ 密码：dbb8
 #### 3.2下载vidalia
 >链接：https://pan.baidu.com/s/1mjPVVwW 密码：1hau
 #### 3.3网桥的申请--只要ip和端口（最好是新鲜的）
@@ -33,7 +33,6 @@ host1plus (https://www.host1plus.com) 本人在用，效果凑合，没对比过
 >https://bridges.torproject.org/bridges?transport=obfs4
 #### 3.4假如vidalia连接成功
 >测试tor成功后获得的Ip:https://check.torproject.org/
-
-
+----------------------------------------------------
 ## 4.问题
 #### 由于被墙，一直连接不是tor网络
