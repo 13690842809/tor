@@ -43,7 +43,7 @@ host1plus (https://www.host1plus.com) 本人在用，效果凑合，没对比过
 ## 5.结论
 本地使用了shadowsocks翻墙，直接用tor浏览器，设置代理即可：  
 tor浏览器里配置代理sock5 127.0.0.1 1080  
-切换ip:打开洋葱头 然后 点击change an new identity  
+切换ip:打开洋葱头 然后 点击change an new identity  
 经过实验，tor browser成功打开不代表终端可以tor，但是vidalia连接成功就终端可行
 ## 6.一些好文章
 http://www.yuuzle.com/use-tor-specified-exporting-countries-ip.html  
